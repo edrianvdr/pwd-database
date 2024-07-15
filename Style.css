@@ -1,0 +1,13 @@
+body {margin:0px; padding:0px; background-color: #D7D8DA; font-family:'Bookman Old Style'; }
+
+/* TEXT FORMATTING */
+h1, h2, h3 {font-family: Cooper Black;}
+h1 {font-size: 48px; margin-top:20px; }
+h2 {font-size: 32px; }
+h3 {font-size: 24px; }
+p {font-size: 24px; margin-left:50px; }
+
+label {font-size: 24px; }
+table, tr, td {border: 1px solid black; border-collapse: collapse;;}
+input {margin: 10px 5px; height: 400px; width: 90%; }
+button {background-color:#00008a; color: #fff; height: 50px; width: 200px; font-size: 16px; }
